@@ -84,7 +84,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="b9b6389f-5fca-4c7f-ace4-36493421f56e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="6054ffb2-4a6f-4d78-a64f-ba316db277ee" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -101,7 +101,7 @@
           </channelMap>
         </audioClip>
       </audioTrack>
-      <audioTrack automationLaneOpenState="false" id="10001" index="2" select="false" visible="true">
+      <audioTrack automationLaneOpenState="false" id="10001" index="2" select="true" visible="true">
         <trackParameters trackHeight="130" trackHue="160" trackMinimized="false">
           <name>Track 1</name>
         </trackParameters>
@@ -168,12 +168,12 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="12598582" fileID="2" hue="-1" id="0" lockedInTime="false" looped="false" name="Untitled 1" offline="false" select="false" sourceInPoint="36000" sourceOutPoint="177974" startPoint="12456608" zOrder="0">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="12598582" fileID="2" hue="-1" id="0" lockedInTime="false" looped="false" name="Untitled 1" offline="false" select="false" sourceInPoint="36000" sourceOutPoint="177974" startPoint="12456608" zOrder="6">
           <component componentGuid="95be78fc-b612-4397-b9a1-c78c10a24acd" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="b18efc26-0426-4bb1-b6fb-1079cb5eaec0" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="a6338b9c-6e9f-4118-9139-85481021fe61" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -190,12 +190,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="12843900" fileID="3" hue="-1" id="1" lockedInTime="false" looped="false" name="scenw1-3" offline="false" select="false" sourceInPoint="57802" sourceOutPoint="233363" startPoint="12668339" zOrder="1">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="12843900" fileID="3" hue="-1" id="1" lockedInTime="false" looped="false" name="scenw1-3" offline="false" select="false" sourceInPoint="57802" sourceOutPoint="233363" startPoint="12668339" zOrder="12">
           <component componentGuid="f38cc788-b040-419a-878b-78ce1b3fdb67" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="1c40647f-62ea-4bb0-b20b-44a7bb80117a" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="ee04c3fa-0ae6-4e89-a186-f6e886b93977" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -212,12 +212,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="13347495" fileID="4" hue="-1" id="2" lockedInTime="false" looped="false" name="s1-5" offline="false" select="false" sourceInPoint="85827" sourceOutPoint="267722" startPoint="13165600" zOrder="2">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="13347495" fileID="4" hue="-1" id="2" lockedInTime="false" looped="false" name="s1-5" offline="false" select="false" sourceInPoint="85827" sourceOutPoint="267722" startPoint="13165600" zOrder="13">
           <component componentGuid="364b85ef-8898-4f88-a5a7-89e4efa92e1f" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="0445c681-56b7-4308-9ff1-5eb9758f04f8" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="3e9efdb6-f137-4942-95f4-f671da25570a" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -233,12 +233,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="13756175" fileID="5" hue="-1" id="3" lockedInTime="false" looped="false" name="s1-7" offline="false" select="false" sourceInPoint="78699" sourceOutPoint="285417" startPoint="13549457" zOrder="3">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="13756175" fileID="5" hue="-1" id="3" lockedInTime="false" looped="false" name="s1-7" offline="false" select="false" sourceInPoint="78699" sourceOutPoint="285417" startPoint="13549457" zOrder="15">
           <component componentGuid="2a8529c0-2add-42b0-a69b-0de077abdd10" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="c651c171-9243-4770-bd5a-1a6a40da37ed" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="8fa88463-6bef-4d5c-85d3-5e24de433104" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -254,12 +254,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="14264966" fileID="6" hue="-1" id="4" lockedInTime="false" looped="false" name="s1-9" offline="false" select="false" sourceInPoint="67566" sourceOutPoint="401175" startPoint="13931357" zOrder="4">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="14264966" fileID="6" hue="-1" id="4" lockedInTime="false" looped="false" name="s1-9" offline="false" select="false" sourceInPoint="67566" sourceOutPoint="401175" startPoint="13931357" zOrder="18">
           <component componentGuid="f725e0d8-a8fc-44dc-a507-5e22f511be0a" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="0f4aa75f-264b-4809-848a-3647ede487c7" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="01061607-f37c-4ad9-8c9b-90507fc1f387" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -275,12 +275,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="14476514" fileID="7" hue="-1" id="5" lockedInTime="false" looped="false" name="s1-10" offline="false" select="false" sourceInPoint="76596" sourceOutPoint="179964" startPoint="14373146" zOrder="5">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="14476514" fileID="7" hue="-1" id="5" lockedInTime="false" looped="false" name="s1-10" offline="false" select="false" sourceInPoint="76596" sourceOutPoint="179964" startPoint="14373146" zOrder="20">
           <component componentGuid="0db82faf-da1a-4075-8f1a-0688d42d29fc" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="969a1637-efd5-480a-92d6-8739d9716d45" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="9773ac9c-12e3-4459-85cb-9b15463c1ca6" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -296,12 +296,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="15782584" fileID="8" hue="-1" id="6" lockedInTime="false" looped="false" name="s1-13" offline="false" select="false" sourceInPoint="31933" sourceOutPoint="140215" startPoint="15674302" zOrder="6">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="15799789" fileID="8" hue="-1" id="6" lockedInTime="false" looped="false" name="s1-13" offline="false" select="false" sourceInPoint="35481" sourceOutPoint="171281" startPoint="15663989" zOrder="24">
           <component componentGuid="236f50ae-2dd3-4be6-9114-3add594cc395" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="7b0769db-d80f-415c-8967-b71aa4f8bc15" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="7b8b5620-19bf-4df8-8ce4-0707936e0aed" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -309,21 +309,20 @@
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="108282" shape="19" startPoint="108282" type="log"/>
-          <clipStretch adaptiveWindowSize="37" pitchAdjustment="0" preserveFormants="true" stretchMode="realtime" stretchQuality="high" stretchRatio="0.90000000000000002220446049250313080847263336181640625" stretchType="solo" transientSensitivity="40"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="135800" shape="19" startPoint="135800" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
             <channel index="0" sourceIndex="0"/>
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="15956839" fileID="9" hue="-1" id="7" lockedInTime="false" looped="false" name="s1-15" offline="false" select="false" sourceInPoint="34626" sourceOutPoint="155005" startPoint="15836460" zOrder="7">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="15978478" fileID="9" hue="-1" id="7" lockedInTime="false" looped="false" name="s1-15" offline="false" select="false" sourceInPoint="34626" sourceOutPoint="155005" startPoint="15858099" zOrder="25">
           <component componentGuid="096e2967-5bda-4976-a659-510cdc835e9a" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="36e633ef-ef17-44ea-89c5-f17a8a8b9e76" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="c4fd8020-dac1-4355-9ac8-cafe90da5238" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -339,24 +338,20 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="16341313" fileID="10" hue="-1" id="8" lockedInTime="false" looped="false" name="s-17" offline="false" select="false" sourceInPoint="41672" sourceOutPoint="389289" startPoint="15993696" zOrder="8">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="16538006" fileID="10" hue="-1" id="8" lockedInTime="false" looped="false" name="s-17" offline="false" select="false" sourceInPoint="41672" sourceOutPoint="517490" startPoint="16062188" zOrder="26">
           <component componentGuid="38cff0d8-102c-4b9a-badb-c95acd035d3c" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="8b1b898e-87bb-4534-b101-1b0229956c17" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="d5ecb2f8-2246-4575-aca9-a00dc75686cf" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentGuid="83e57023-a50a-4744-819a-bdee7f265a7e" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Pan" parameterValue="0">
-              <parameterKeyframes enableSplines="false" readOnly="false">
-                <parameterKeyframe sampleOffset="390529" select="false" type="linear" value="0.5"/>
-              </parameterKeyframes>
-            </parameter>
+            <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="347617" shape="19" startPoint="347617" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="475818" shape="19" startPoint="475818" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
@@ -364,12 +359,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="16785327" fileID="27" hue="-1" id="9" lockedInTime="false" looped="false" name="s1-19" offline="false" select="false" sourceInPoint="29529" sourceOutPoint="332178" startPoint="16482678" zOrder="9">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17175547" fileID="11" hue="-1" id="9" lockedInTime="false" looped="false" name="s1-19" offline="false" select="false" sourceInPoint="29529" sourceOutPoint="470359" startPoint="16734717" zOrder="27">
           <component componentGuid="9868e235-6b3f-4fd1-9471-198a2b2094e5" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="c7d50c9a-9405-4348-bbdc-21bf5e83c86d" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="a93e0265-e600-432b-8523-85c1bd7340f6" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -377,41 +372,20 @@
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="302649" shape="19" startPoint="302649" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="440830" shape="19" startPoint="440830" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
             <channel index="0" sourceIndex="0"/>
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="16884508" fileID="27" hue="-1" id="10" lockedInTime="false" looped="false" name="s1-19" offline="false" select="false" sourceInPoint="332178" sourceOutPoint="427596" startPoint="16789090" zOrder="10">
-          <component componentGuid="44d6492b-3756-411b-b75b-0c03f232c90f" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1"/>
-            <parameter index="1" name="static gain" parameterValue="1"/>
-          </component>
-          <component componentGuid="1e464ea3-9110-452a-8758-0724f1b953ab" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="0"/>
-          </component>
-          <component componentGuid="a7c8d53f-7065-4f10-8c35-d6d90b7807bb" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Pan" parameterValue="0"/>
-          </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="95418" shape="19" startPoint="95418" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
-          <editParameter parameterIndex="0" slotIndex="4294967280"/>
-          <channelMap>
-            <channel index="0" sourceIndex="0"/>
-            <channel index="1" sourceIndex="1"/>
-          </channelMap>
-        </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17820286" fileID="11" hue="-1" id="11" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="48000" sourceOutPoint="149639" startPoint="17718647" zOrder="11">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="18204402" fileID="12" hue="-1" id="10" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="48000" sourceOutPoint="237110" startPoint="18015292" zOrder="28">
           <component componentGuid="df65dfcb-98e4-4703-aa7f-8afaa6b61692" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="545e976c-fc9e-4195-ba5e-caa0f22e6978" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="b1943cf9-2f82-43bf-b5bf-c582a3cd2973" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -419,7 +393,7 @@
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="18" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="101639" shape="19" startPoint="101639" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="189110" shape="19" startPoint="189110" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
@@ -427,12 +401,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17973563" fileID="11" hue="-1" id="12" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="388396" sourceOutPoint="439904" startPoint="17922055" zOrder="12">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="18399713" fileID="12" hue="-1" id="11" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="388396" sourceOutPoint="521008" startPoint="18267101" zOrder="30">
           <component componentGuid="df3c3954-8403-4ad6-8e89-7cf3650f6dde" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="4b669296-4714-44b4-bfae-5cc5d7a19e32" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="d7bbbb5f-79ad-493f-8723-96168ba8406b" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -440,7 +414,7 @@
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="51508" shape="19" startPoint="51508" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="132612" shape="19" startPoint="132612" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
@@ -448,33 +422,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="18057578" fileID="11" hue="-1" id="13" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="439904" sourceOutPoint="521008" startPoint="17976474" zOrder="13">
-          <component componentGuid="7adfdae5-68ae-496f-89f5-d035695d08f0" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1"/>
-            <parameter index="1" name="static gain" parameterValue="1"/>
-          </component>
-          <component componentGuid="3be79eb2-48ae-4b20-b8fd-b755ba87d237" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="0"/>
-          </component>
-          <component componentGuid="290bb841-95f4-4ceb-a7f0-3684c6b98fde" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Pan" parameterValue="0"/>
-          </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="81104" shape="19" startPoint="81104" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967280"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
-          <channelMap>
-            <channel index="0" sourceIndex="0"/>
-            <channel index="1" sourceIndex="1"/>
-          </channelMap>
-        </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="18293909" fileID="11" hue="-1" id="14" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="645242" sourceOutPoint="811102" startPoint="18128049" zOrder="14">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="18632053" fileID="12" hue="-1" id="12" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="645242" sourceOutPoint="811102" startPoint="18466193" zOrder="31">
           <component componentGuid="8cb1b410-b340-4414-803c-cbc7eb089eae" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="dd2b0df2-36c2-458e-806a-8fbf0d3742d3" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="6bf16147-cda6-4f56-8c2a-40f56660e89e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -490,12 +443,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="16" endPoint="18600459" fileID="11" hue="-1" id="15" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="970615" sourceOutPoint="1106452" startPoint="18464622" zOrder="15">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="19153236" fileID="12" hue="-1" id="13" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="970615" sourceOutPoint="1302017" startPoint="18821834" zOrder="29">
           <component componentGuid="1c03bfc8-04ca-4a8e-b66f-23ddb3d0530f" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="a4b560e9-e032-4460-9c3f-ec83bfd1a636" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="40f5098f-bbed-44b7-a5e7-5436ee9d13bf" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -503,7 +456,7 @@
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="135837" shape="19" startPoint="133511" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="331402" shape="19" startPoint="331402" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
@@ -511,54 +464,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="15" crossFadeTailClipID="17" endPoint="18660035" fileID="11" hue="-1" id="16" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="1106452" sourceOutPoint="1168354" startPoint="18598133" zOrder="16">
-          <component componentGuid="18046310-9a93-48d7-a0df-fac39cb4b13f" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1"/>
-            <parameter index="1" name="static gain" parameterValue="1"/>
-          </component>
-          <component componentGuid="0c798930-9357-409a-9b6c-1aa42f433d83" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="0"/>
-          </component>
-          <component componentGuid="f6af042a-9dde-49b9-9024-db248aeb81ef" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Pan" parameterValue="0"/>
-          </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="2326" shape="18" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="61902" shape="19" startPoint="52073" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
-          <editParameter parameterIndex="0" slotIndex="4294967280"/>
-          <channelMap>
-            <channel index="0" sourceIndex="0"/>
-            <channel index="1" sourceIndex="1"/>
-          </channelMap>
-        </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="16" crossFadeTailClipID="-1" endPoint="18783869" fileID="11" hue="-1" id="17" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="1168354" sourceOutPoint="1302017" startPoint="18650206" zOrder="17">
-          <component componentGuid="cd6a5b19-b37d-4983-9bad-ac87d08a94bb" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1"/>
-            <parameter index="1" name="static gain" parameterValue="1"/>
-          </component>
-          <component componentGuid="9c52f7ed-d849-4ff2-8901-de191af082b9" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="0"/>
-          </component>
-          <component componentGuid="5bfec26e-05fb-4069-a632-5dc8d8a59823" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Pan" parameterValue="0"/>
-          </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="9829" shape="18" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="133663" shape="19" startPoint="133663" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
-          <editParameter parameterIndex="0" slotIndex="4294967280"/>
-          <channelMap>
-            <channel index="0" sourceIndex="0"/>
-            <channel index="1" sourceIndex="1"/>
-          </channelMap>
-        </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="19" endPoint="18967947" fileID="11" hue="-1" id="18" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="1516509" sourceOutPoint="1611506" startPoint="18872950" zOrder="18">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="20464399" fileID="12" hue="-1" id="14" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="1516509" sourceOutPoint="2667123" startPoint="19313785" zOrder="32">
           <component componentGuid="8f9becf0-071e-49af-9676-6e800c7c84be" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="89115991-2078-4326-a2f4-9bddbb881e16" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="34204b24-7132-49b4-a726-d292751daa71" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -566,112 +477,7 @@
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="18" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="94997" shape="19" startPoint="91836" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967280"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
-          <channelMap>
-            <channel index="0" sourceIndex="0"/>
-            <channel index="1" sourceIndex="1"/>
-          </channelMap>
-        </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="18" crossFadeTailClipID="20" endPoint="19075692" fileID="11" hue="-1" id="19" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="1611506" sourceOutPoint="1722412" startPoint="18964786" zOrder="19">
-          <component componentGuid="6504f6ef-046a-47e4-9ba9-33414fd9e894" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1"/>
-            <parameter index="1" name="static gain" parameterValue="1"/>
-          </component>
-          <component componentGuid="64db6d90-e5b0-4999-8cbc-a2cf0396b870" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="0"/>
-          </component>
-          <component componentGuid="5d05a529-dfca-4bb2-95c4-42f2ada14466" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Pan" parameterValue="0"/>
-          </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="3161" shape="18" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="110906" shape="19" startPoint="109798" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967280"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
-          <channelMap>
-            <channel index="0" sourceIndex="0"/>
-            <channel index="1" sourceIndex="1"/>
-          </channelMap>
-        </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="19" crossFadeTailClipID="21" endPoint="19197897" fileID="11" hue="-1" id="20" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="1722412" sourceOutPoint="1845725" startPoint="19074584" zOrder="20">
-          <component componentGuid="3e0f499d-e6f5-40fe-9466-d2f054d218e7" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1"/>
-            <parameter index="1" name="static gain" parameterValue="1"/>
-          </component>
-          <component componentGuid="5d71f897-9d7e-4aa5-9041-606af97e0b60" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="0"/>
-          </component>
-          <component componentGuid="dae66aa4-1a06-4bb9-ad65-49eb599ad5f9" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Pan" parameterValue="0"/>
-          </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="1108" shape="18" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="123313" shape="19" startPoint="72861" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967280"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
-          <channelMap>
-            <channel index="0" sourceIndex="0"/>
-            <channel index="1" sourceIndex="1"/>
-          </channelMap>
-        </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="20" crossFadeTailClipID="22" endPoint="19418684" fileID="11" hue="-1" id="21" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="1845725" sourceOutPoint="2116964" startPoint="19147445" zOrder="21">
-          <component componentGuid="dd04359d-b29d-40c8-9765-2faa90cce69f" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1"/>
-            <parameter index="1" name="static gain" parameterValue="1"/>
-          </component>
-          <component componentGuid="6a8207dd-caa8-4d77-8ae2-638a2a67ecb7" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="0"/>
-          </component>
-          <component componentGuid="d8f24881-cd43-4c89-8118-fbaf28a800b6" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Pan" parameterValue="0"/>
-          </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="50452" shape="18" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="271239" shape="19" startPoint="262316" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967280"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
-          <channelMap>
-            <channel index="0" sourceIndex="0"/>
-            <channel index="1" sourceIndex="1"/>
-          </channelMap>
-        </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="21" crossFadeTailClipID="-1" endPoint="19538447" fileID="11" hue="-1" id="22" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="2116964" sourceOutPoint="2245650" startPoint="19409761" zOrder="22">
-          <component componentGuid="caec7fb4-e835-4e1e-887b-aeb4ec6b90ea" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1"/>
-            <parameter index="1" name="static gain" parameterValue="1"/>
-          </component>
-          <component componentGuid="9669ca72-c615-4693-82fe-fc4a25ea5c45" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="0"/>
-          </component>
-          <component componentGuid="f8dccd2a-2124-4c12-852e-623cc428b2f8" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Pan" parameterValue="0"/>
-          </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="8923" shape="18" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="128686" shape="19" startPoint="128686" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967280"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
-          <channelMap>
-            <channel index="0" sourceIndex="0"/>
-            <channel index="1" sourceIndex="1"/>
-          </channelMap>
-        </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="19809338" fileID="11" hue="-1" id="23" lockedInTime="false" looped="false" name="david" offline="false" select="false" sourceInPoint="2507171" sourceOutPoint="2667123" startPoint="19649386" zOrder="25">
-          <component componentGuid="5cef980f-c8f0-49ce-8a0d-67211022c041" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1"/>
-            <parameter index="1" name="static gain" parameterValue="1"/>
-          </component>
-          <component componentGuid="6914a3fa-6add-4884-b901-4008c7cbbd51" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="0"/>
-          </component>
-          <component componentGuid="0a5397b0-2b5f-4949-87b8-2607b8d5beaf" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Pan" parameterValue="0"/>
-          </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="159952" shape="19" startPoint="159952" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1150614" shape="19" startPoint="1150614" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
@@ -680,7 +486,7 @@
           </channelMap>
         </audioClip>
       </audioTrack>
-      <audioTrack automationLaneOpenState="false" id="10002" index="3" select="true" visible="true">
+      <audioTrack automationLaneOpenState="false" id="10002" index="3" select="false" visible="true">
         <trackParameters trackHeight="130" trackHue="267" trackMinimized="false">
           <name>Track 2</name>
         </trackParameters>
@@ -747,12 +553,12 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="12638205" fileID="12" hue="-1" id="0" lockedInTime="false" looped="false" name="Scene1-2" offline="false" select="false" sourceInPoint="49626" sourceOutPoint="94110" startPoint="12593721" zOrder="0">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="12638205" fileID="13" hue="-1" id="0" lockedInTime="false" looped="false" name="Scene1-2" offline="false" select="false" sourceInPoint="49626" sourceOutPoint="94110" startPoint="12593721" zOrder="1">
           <component componentGuid="7147be2c-a55c-4459-ad1a-f9f5e1d47189" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="ab70fda3-6ebb-4e69-bcda-3ce2f6957bf5" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="53a34193-3156-46c5-bc97-d8097a09f1ec" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -768,12 +574,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="12965719" fileID="13" hue="-1" id="1" lockedInTime="false" looped="false" name="scnene1-4" offline="false" select="false" sourceInPoint="48000" sourceOutPoint="152023" startPoint="12861696" zOrder="1">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="12965719" fileID="14" hue="-1" id="1" lockedInTime="false" looped="false" name="scnene1-4" offline="false" select="false" sourceInPoint="48000" sourceOutPoint="152023" startPoint="12861696" zOrder="2">
           <component componentGuid="cdde2197-6a43-4e78-b907-bdc0c7eb447e" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="24509e4a-85b5-454a-80b2-ff352ced480e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="0f4f3843-e662-4fc1-bcd4-074ca55a374a" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -789,12 +595,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="13521694" fileID="14" hue="-1" id="2" lockedInTime="false" looped="false" name="s1-6" offline="false" select="false" sourceInPoint="43969" sourceOutPoint="210395" startPoint="13355268" zOrder="3">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="13521694" fileID="15" hue="-1" id="2" lockedInTime="false" looped="false" name="s1-6" offline="false" select="false" sourceInPoint="43969" sourceOutPoint="210395" startPoint="13355268" zOrder="8">
           <component componentGuid="ccec95ab-8571-4a8c-ae19-a7debcb8d39b" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="90df8b28-176e-48db-b951-e42592190d84" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="761fd09e-17f4-4382-8c8c-244a80ba8528" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -810,12 +616,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="13868952" fileID="15" hue="-1" id="3" lockedInTime="false" looped="false" name="s1-8" offline="false" select="false" sourceInPoint="93436" sourceOutPoint="192000" startPoint="13770388" zOrder="4">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="13868952" fileID="16" hue="-1" id="3" lockedInTime="false" looped="false" name="s1-8" offline="false" select="false" sourceInPoint="93436" sourceOutPoint="192000" startPoint="13770388" zOrder="17">
           <component componentGuid="a17f9f68-fcd6-4436-a1cf-1d8fff0e84ea" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="8659d042-b5b3-4f3f-9ff4-f2bb10fc86c1" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="b61be31d-87db-4fad-a229-5ff7ee1860ce" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -831,12 +637,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="14715896" fileID="16" hue="-1" id="4" lockedInTime="false" looped="false" name="s1-11" offline="false" select="false" sourceInPoint="59731" sourceOutPoint="315504" startPoint="14460123" zOrder="5">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="14715896" fileID="17" hue="-1" id="4" lockedInTime="false" looped="false" name="s1-11" offline="false" select="false" sourceInPoint="59731" sourceOutPoint="315504" startPoint="14460123" zOrder="23">
           <component componentGuid="dfa2b02a-aced-4a9f-b895-366b292abeb1" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="d4eb767f-07ae-4e0a-94a9-8ab213024364" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="f3278b9c-236e-46bc-bac1-b34c85d69557" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -852,12 +658,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17906491" fileID="17" hue="-1" id="5" lockedInTime="false" looped="false" name="psychokiller" offline="false" select="false" sourceInPoint="117698" sourceOutPoint="180397" startPoint="17843792" zOrder="6">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17875048" fileID="18" hue="-1" id="5" lockedInTime="false" looped="false" name="psychokiller" offline="false" select="false" sourceInPoint="117698" sourceOutPoint="180397" startPoint="17812349" zOrder="3">
           <component componentGuid="7c8f839b-90ef-4d64-8178-ed94172c1df6" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="053def17-7262-4b5a-8c6e-ecbf7b598c97" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="f4f41ee9-e3f5-47b7-aeaa-9ac367a33581" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -873,12 +679,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="18109640" fileID="17" hue="-1" id="6" lockedInTime="false" looped="false" name="psychokiller" offline="false" select="false" sourceInPoint="415264" sourceOutPoint="467326" startPoint="18057578" zOrder="7">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="18051767" fileID="18" hue="-1" id="6" lockedInTime="false" looped="false" name="psychokiller" offline="false" select="false" sourceInPoint="415264" sourceOutPoint="467326" startPoint="17999705" zOrder="4">
           <component componentGuid="42a41260-caa2-4f15-bd3e-de1f329ae587" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="0b93e8f2-61a2-4dc4-86b8-346cbf811038" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="2ff5ac22-0d83-463f-9f3f-2e0c33c8103e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -894,12 +700,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="18470220" fileID="17" hue="-1" id="7" lockedInTime="false" looped="false" name="psychokiller" offline="false" select="false" sourceInPoint="708324" sourceOutPoint="913178" startPoint="18265366" zOrder="8">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="18445057" fileID="18" hue="-1" id="7" lockedInTime="false" looped="false" name="psychokiller" offline="false" select="false" sourceInPoint="708324" sourceOutPoint="913178" startPoint="18240203" zOrder="5">
           <component componentGuid="a6f069f8-c8ea-4691-892d-970633edaa78" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="72580283-484d-46e6-be30-3a7fc34b75b3" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="71316cf1-8289-41c9-9052-7b2857d04570" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -908,19 +714,19 @@
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
           <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="204854" shape="19" startPoint="204854" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
             <channel index="0" sourceIndex="0"/>
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="9" endPoint="18816806" fileID="17" hue="-1" id="8" lockedInTime="false" looped="false" name="psychokiller" offline="false" select="false" sourceInPoint="1143340" sourceOutPoint="1216146" startPoint="18744000" zOrder="9">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="18921732" fileID="18" hue="-1" id="8" lockedInTime="false" looped="false" name="psychokiller" offline="false" select="false" sourceInPoint="1143340" sourceOutPoint="1300423" startPoint="18764649" zOrder="6">
           <component componentGuid="38ebb58d-be8d-4628-9200-3b8a250145c5" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="1d548c73-4940-4742-b1da-4f6fe42d88fa" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="db75b66d-c30e-4e4b-9269-d05b69f16e2d" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -928,7 +734,7 @@
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="72806" shape="19" startPoint="67855" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="157083" shape="19" startPoint="157083" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
@@ -936,33 +742,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="8" crossFadeTailClipID="-1" endPoint="18896132" fileID="17" hue="-1" id="9" lockedInTime="false" looped="false" name="psychokiller" offline="false" select="false" sourceInPoint="1216146" sourceOutPoint="1300423" startPoint="18811855" zOrder="10">
-          <component componentGuid="1bc7460a-7c91-41e3-a558-16c58ae254ae" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1"/>
-            <parameter index="1" name="static gain" parameterValue="1"/>
-          </component>
-          <component componentGuid="b66a9ce3-cd92-4771-bd85-56d72ab2bd0c" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="0"/>
-          </component>
-          <component componentGuid="5c8c3b20-2404-4030-9b9c-3b13be801cf3" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Pan" parameterValue="0"/>
-          </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="4951" shape="18" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="84277" shape="19" startPoint="84277" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967280"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
-          <channelMap>
-            <channel index="0" sourceIndex="0"/>
-            <channel index="1" sourceIndex="1"/>
-          </channelMap>
-        </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="11" endPoint="20335410" fileID="17" hue="-1" id="10" lockedInTime="false" looped="false" name="psychokiller" offline="false" select="false" sourceInPoint="1762897" sourceOutPoint="2027267" startPoint="20071040" zOrder="28">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="20557828" fileID="18" hue="-1" id="9" lockedInTime="false" looped="false" name="psychokiller" offline="false" select="false" sourceInPoint="1762897" sourceOutPoint="2242808" startPoint="20077917" zOrder="7">
           <component componentGuid="d56393c9-ab2a-4e29-9b94-b68a73df334c" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="31aefab0-4731-4f7e-adf4-479a1e8e0a43" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="ed636037-d78a-40f2-a371-df3cba1c2ab0" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -970,30 +755,9 @@
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="264370" shape="19" startPoint="237965" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="479911" shape="19" startPoint="479911" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
-          <channelMap>
-            <channel index="0" sourceIndex="0"/>
-            <channel index="1" sourceIndex="1"/>
-          </channelMap>
-        </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="10" crossFadeTailClipID="-1" endPoint="20524546" fileID="17" hue="-1" id="11" lockedInTime="false" looped="false" name="psychokiller" offline="false" select="true" sourceInPoint="2027267" sourceOutPoint="2242808" startPoint="20309005" zOrder="31">
-          <component componentGuid="95e807be-f6a4-4fd7-bb5d-36d2873a7f03" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1"/>
-            <parameter index="1" name="static gain" parameterValue="1"/>
-          </component>
-          <component componentGuid="1cbe2693-4832-499d-8a66-295fc03aae13" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="0"/>
-          </component>
-          <component componentGuid="19ac2912-6bac-4a6e-a3e7-d78a9f6097d8" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Pan" parameterValue="0"/>
-          </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="26405" shape="18" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="215541" shape="19" startPoint="215541" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
-          <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <channelMap>
             <channel index="0" sourceIndex="0"/>
             <channel index="1" sourceIndex="1"/>
@@ -1067,12 +831,12 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="15679087" fileID="18" hue="-1" id="0" lockedInTime="false" looped="false" name="scen1-12" offline="false" select="false" sourceInPoint="78973" sourceOutPoint="112918" startPoint="15645142" zOrder="0">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="15268586" fileID="19" hue="-1" id="0" lockedInTime="false" looped="false" name="scen1-12" offline="false" select="false" sourceInPoint="78973" sourceOutPoint="112918" startPoint="15234641" zOrder="0">
           <component componentGuid="d4cc11be-deb9-48d4-a9dc-f18322a640c9" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="a666e208-28f9-4857-91a1-c83adc2b5747" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="0bde8d45-2079-48f0-8bc5-525dc2ea3bf7" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1088,12 +852,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="15823597" fileID="19" hue="-1" id="1" lockedInTime="false" looped="false" name="s1-14" offline="false" select="false" sourceInPoint="49112" sourceOutPoint="94506" startPoint="15778203" zOrder="1">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="15462241" fileID="20" hue="-1" id="1" lockedInTime="false" looped="false" name="s1-14" offline="false" select="false" sourceInPoint="49112" sourceOutPoint="94506" startPoint="15416847" zOrder="1">
           <component componentGuid="4cc4009a-2d3a-4673-ad2b-20b35eebc325" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="135ebe9a-50e5-4d41-a98b-dc0ddde1e15e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="d0d6dd93-9ae3-43ca-adb3-c19747f9c2ce" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1109,12 +873,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="16010662" fileID="20" hue="-1" id="2" lockedInTime="false" looped="false" name="s1-16" offline="false" select="false" sourceInPoint="48000" sourceOutPoint="110560" startPoint="15948102" zOrder="2">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="15663989" fileID="21" hue="-1" id="2" lockedInTime="false" looped="false" name="s1-16" offline="false" select="false" sourceInPoint="48000" sourceOutPoint="110560" startPoint="15601429" zOrder="2">
           <component componentGuid="5f491c4e-1f68-44e4-a1c7-8b0135daf7dd" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="66abbb09-7940-4f2d-bbea-8042c03d5a6c" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="b7c322de-e475-4254-9319-65cb2c24f1b7" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1130,12 +894,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="16492262" fileID="21" hue="-1" id="3" lockedInTime="false" looped="false" name="s1-18" offline="false" select="false" sourceInPoint="38560" sourceOutPoint="185161" startPoint="16345661" zOrder="3">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="16365903" fileID="22" hue="-1" id="3" lockedInTime="false" looped="false" name="s1-18" offline="false" select="false" sourceInPoint="38560" sourceOutPoint="226784" startPoint="16177679" zOrder="3">
           <component componentGuid="1b1651ae-043d-46f7-8550-7872720be35f" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="9094c16c-2ef0-400f-b73f-8994d39f8611" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="5bdd316a-48e1-439d-9f0e-396e43f7efa4" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1143,7 +907,7 @@
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="146601" shape="19" startPoint="146601" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="188224" shape="19" startPoint="188224" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
@@ -1151,12 +915,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17129642" fileID="22" hue="-1" id="4" lockedInTime="false" looped="false" name="s1-20" offline="false" select="false" sourceInPoint="48000" sourceOutPoint="142066" startPoint="17035576" zOrder="4">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="16950991" fileID="23" hue="-1" id="4" lockedInTime="false" looped="false" name="s1-20" offline="false" select="false" sourceInPoint="48000" sourceOutPoint="196424" startPoint="16802567" zOrder="4">
           <component componentGuid="2a30db46-6762-4151-91c3-7fd9e4b18e68" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="dbb2fc7c-b24a-445a-8449-4897ab6eccf8" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="3aba9d53-be3b-418c-a09f-47f742ca132b" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1164,7 +928,7 @@
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="94066" shape="19" startPoint="94066" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="148424" shape="19" startPoint="148424" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
@@ -1172,12 +936,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17363406" fileID="23" hue="-1" id="5" lockedInTime="false" looped="false" name="s1-22" offline="false" select="false" sourceInPoint="56771" sourceOutPoint="199306" startPoint="17220871" zOrder="5">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17200811" fileID="24" hue="-1" id="5" lockedInTime="false" looped="false" name="s1-22" offline="false" select="false" sourceInPoint="56771" sourceOutPoint="199306" startPoint="17058276" zOrder="5">
           <component componentGuid="5f618b8a-0039-45e1-8a91-89cadbc20ca5" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="6aa02ba6-64cc-43d1-9021-4115f1574a62" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="5caefebf-781c-48eb-a454-12fbf4862a9a" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1193,12 +957,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17601960" fileID="24" hue="-1" id="6" lockedInTime="false" looped="false" name="daddy" offline="false" select="false" sourceInPoint="25083" sourceOutPoint="152936" startPoint="17474107" zOrder="6">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17417413" fileID="25" hue="-1" id="6" lockedInTime="false" looped="false" name="daddy" offline="false" select="false" sourceInPoint="0" sourceOutPoint="152936" startPoint="17264477" zOrder="6">
           <component componentGuid="c559387e-4717-4e7a-87bc-2d3da05f0cf3" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="4ccfbb41-0ccb-4a0c-b957-2d06b2050621" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="f645f04b-ea0a-434e-8cad-7a0bd512e25c" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1206,7 +970,7 @@
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="127853" shape="19" startPoint="127853" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="152936" shape="19" startPoint="152936" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
@@ -1214,12 +978,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17716469" fileID="24" hue="-1" id="7" lockedInTime="false" looped="false" name="daddy" offline="false" select="false" sourceInPoint="271764" sourceOutPoint="374198" startPoint="17614035" zOrder="7">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17590442" fileID="25" hue="-1" id="7" lockedInTime="false" looped="false" name="daddy" offline="false" select="false" sourceInPoint="271764" sourceOutPoint="374198" startPoint="17488008" zOrder="7">
           <component componentGuid="624e5cb8-88eb-4c55-83d5-770162a21e46" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="7b267470-72fd-44fe-bc63-27fa907e4f12" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="ae942372-982c-4eab-8506-d23140ca8ea6" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1303,12 +1067,12 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17230541" fileID="25" hue="-1" id="0" lockedInTime="false" looped="false" name="s1-21" offline="false" select="false" sourceInPoint="54011" sourceOutPoint="115200" startPoint="17169352" zOrder="0">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17049494" fileID="26" hue="-1" id="0" lockedInTime="false" looped="false" name="s1-21" offline="false" select="false" sourceInPoint="54011" sourceOutPoint="115200" startPoint="16988305" zOrder="0">
           <component componentGuid="58783e74-045e-4d99-8001-d58b3c8a4ac4" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="1ed5e443-a168-4ad8-91ed-5b53a8041ba9" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="71bbd4f1-118e-4aac-ba7e-b69db7da1ff2" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1324,12 +1088,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17429767" fileID="26" hue="-1" id="1" lockedInTime="false" looped="false" name="s1-24" offline="false" select="false" sourceInPoint="59487" sourceOutPoint="113254" startPoint="17376000" zOrder="1">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17264477" fileID="27" hue="-1" id="1" lockedInTime="false" looped="false" name="s1-24" offline="false" select="false" sourceInPoint="59487" sourceOutPoint="113254" startPoint="17210710" zOrder="1">
           <component componentGuid="0d3047ee-14b2-49c7-89ad-e2d0af303426" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="3a0060f8-6a7d-43cf-a620-109c8623876e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="c81218ae-fc16-47c1-b523-9f5851b68f2e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1345,12 +1109,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17631417" fileID="26" hue="-1" id="2" lockedInTime="false" looped="false" name="s1-24" offline="false" select="false" sourceInPoint="146811" sourceOutPoint="205154" startPoint="17573074" zOrder="2">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="17475756" fileID="27" hue="-1" id="2" lockedInTime="false" looped="false" name="s1-24" offline="false" select="false" sourceInPoint="146811" sourceOutPoint="205154" startPoint="17417413" zOrder="2">
           <component componentGuid="d4ce96c1-5ab4-4d7b-9416-0d11a0dd7e34" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="678f63c7-c59c-4365-9a53-9fa8411aa867" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="e7eaccbe-54a9-404f-83af-6c82a9d5c67a" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1504,9 +1268,9 @@
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </masterTrack>
     </tracks>
-    <sessionState ctiPosition="20556265" smpteStart="0">
-      <selectionState selectionDuration="0" selectionStart="20556265"/>
-      <viewState horizontalViewDuration="571768" horizontalViewStart="20123479" trackControlsWidth="224" verticalScrollOffset="0"/>
+    <sessionState ctiPosition="15714296" smpteStart="0">
+      <selectionState selectionDuration="0" selectionStart="15714296"/>
+      <viewState horizontalViewDuration="5598007" horizontalViewStart="14170232" trackControlsWidth="224" verticalScrollOffset="0"/>
       <timeFormatState beatsPerBar="4" beatsPerMinute="120" customFrameRate="12" linkToDefaultTimeSettings="true" noteLength="4" subdivisions="16" timeCodeDropFrame="false" timeCodeFrameRate="30" timeCodeNTSC="false" timeFormat="timeFormatDecimal"/>
       <mixingOptionState defaultPanModeLogarithmic="false" panPower="-3" playOverlappingClips="false"/>
     </sessionState>
@@ -1523,10 +1287,10 @@
             xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
          <xmp:CreatorTool>Adobe Audition 22.5 (Macintosh)</xmp:CreatorTool>
          <xmp:CreateDate>2023-04-15T16:32:12+03:00</xmp:CreateDate>
-         <xmp:MetadataDate>2023-04-17T21:09:25+03:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2023-04-17T21:09:25+03:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:da4c42cd-7ede-6c43-a38a-42c4e978faf9</xmpMM:InstanceID>
-         <xmpMM:DocumentID>xmp.did:da4c42cd-7ede-6c43-a38a-42c4e978faf9</xmpMM:DocumentID>
+         <xmp:MetadataDate>2023-04-17T20:20:20+03:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2023-04-17T20:20:20+03:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:5c188738-ac15-6243-b2aa-aaf6a61df319</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:5c188738-ac15-6243-b2aa-aaf6a61df319</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:bb660314-a2da-48ad-a398-b53f604c156a</xmpMM:OriginalDocumentID>
          <xmpMM:History>
             <rdf:Seq>
@@ -1637,50 +1401,22 @@
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:185a3ed7-a76b-354d-9e6f-70e5883f9034</stEvt:instanceID>
-                  <stEvt:when>2023-04-17T20:45:12+03:00</stEvt:when>
+                  <stEvt:instanceID>xmp.iid:db228859-c165-bc4c-a593-a263ae14e79f</stEvt:instanceID>
+                  <stEvt:when>2023-04-17T20:20:20+03:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Audition 22.0 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/metadata</stEvt:changed>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:f6944a39-f816-6c47-8300-08cb757b226a</stEvt:instanceID>
-                  <stEvt:when>2023-04-17T20:45:12+03:00</stEvt:when>
-                  <stEvt:softwareAgent>Adobe Audition 22.0 (Windows)</stEvt:softwareAgent>
-                  <stEvt:changed>/</stEvt:changed>
-               </rdf:li>
-               <rdf:li rdf:parseType="Resource">
-                  <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:a380ed74-8fa9-d54f-b04f-30c2f2dd0d05</stEvt:instanceID>
-                  <stEvt:when>2023-04-17T21:02:11+03:00</stEvt:when>
-                  <stEvt:softwareAgent>Adobe Audition 22.0 (Windows)</stEvt:softwareAgent>
-                  <stEvt:changed>/metadata</stEvt:changed>
-               </rdf:li>
-               <rdf:li rdf:parseType="Resource">
-                  <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:1c9e2986-c959-8f4f-9d5a-64e8046cfb5d</stEvt:instanceID>
-                  <stEvt:when>2023-04-17T21:02:11+03:00</stEvt:when>
-                  <stEvt:softwareAgent>Adobe Audition 22.0 (Windows)</stEvt:softwareAgent>
-                  <stEvt:changed>/</stEvt:changed>
-               </rdf:li>
-               <rdf:li rdf:parseType="Resource">
-                  <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:51c6d9c1-064f-7643-a294-8b4811c0d741</stEvt:instanceID>
-                  <stEvt:when>2023-04-17T21:09:25+03:00</stEvt:when>
-                  <stEvt:softwareAgent>Adobe Audition 22.0 (Windows)</stEvt:softwareAgent>
-                  <stEvt:changed>/metadata</stEvt:changed>
-               </rdf:li>
-               <rdf:li rdf:parseType="Resource">
-                  <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:da4c42cd-7ede-6c43-a38a-42c4e978faf9</stEvt:instanceID>
-                  <stEvt:when>2023-04-17T21:09:25+03:00</stEvt:when>
+                  <stEvt:instanceID>xmp.iid:5c188738-ac15-6243-b2aa-aaf6a61df319</stEvt:instanceID>
+                  <stEvt:when>2023-04-17T20:20:20+03:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Audition 22.0 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <xmpMM:DerivedFrom rdf:parseType="Resource">
-            <stRef:instanceID>xmp.iid:51c6d9c1-064f-7643-a294-8b4811c0d741</stRef:instanceID>
+            <stRef:instanceID>xmp.iid:db228859-c165-bc4c-a593-a263ae14e79f</stRef:instanceID>
             <stRef:documentID>xmp.did:4b4def84-83a7-4184-9712-1e72830f2416</stRef:documentID>
             <stRef:originalDocumentID>xmp.did:bb660314-a2da-48ad-a398-b53f604c156a</stRef:originalDocumentID>
          </xmpMM:DerivedFrom>
@@ -1854,23 +1590,23 @@
     <file absolutePath="H:\hobbies\demolition_tatko\tatko\Imported Files\s1-13.wav" id="8" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="b0d2dd61-4ee7-4034-a20b-9089cab24e45" relativePath="../Imported Files/s1-13.wav"/>
     <file absolutePath="H:\hobbies\demolition_tatko\tatko\Imported Files\s1-15.wav" id="9" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="92e74b0e-ec1f-4353-9701-224f3a27c4a6" relativePath="../Imported Files/s1-15.wav"/>
     <file absolutePath="H:\hobbies\demolition_tatko\tatko\s-17.wav" id="10" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="bed14506-41ca-4ff8-b78c-eeb0edf39ee2" relativePath="../s-17.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\david.wav" id="11" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="57ba4665-ce7e-4372-8831-dde1fad3603a" relativePath="../david.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\Imported Files\Scene1-2.wav" id="12" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="2e65608b-a27d-447a-a4b8-081e75127e27" relativePath="../Imported Files/Scene1-2.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\Imported Files\scnene1-4.wav" id="13" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="dbbeab5e-8d06-4caa-b9df-5a2cd1740797" relativePath="../Imported Files/scnene1-4.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\Imported Files\s1-6.wav" id="14" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="b98d1c00-9725-44e0-bb62-0e4165e94f61" relativePath="../Imported Files/s1-6.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\Imported Files\s1-8.wav" id="15" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="01511fc3-bd4b-4525-bad7-003a4c0df868" relativePath="../Imported Files/s1-8.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\Imported Files\s1-11.wav" id="16" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="08450278-6604-449a-9f26-cb5455022d7b" relativePath="../Imported Files/s1-11.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\psychokiller.wav" id="17" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="5f28daf3-fa71-4c6a-b559-31bbdeaa0109" relativePath="../psychokiller.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\Imported Files\scen1-12.wav" id="18" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="fb237ac1-1408-4054-9016-39b84c5b7a70" relativePath="../Imported Files/scen1-12.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\Imported Files\s1-14.wav" id="19" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="d6df1a20-8595-446b-b874-c8e014abef62" relativePath="../Imported Files/s1-14.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\s1-16.wav" id="20" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="c3bceeb2-8fad-427e-9a0b-cec44f1bc369" relativePath="../s1-16.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\s1-18.wav" id="21" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="1f2ddf8b-76f9-4a6d-948c-1f2d569e3814" relativePath="../s1-18.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\s1-20.wav" id="22" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="462a4bce-7821-4582-9dbc-731afa7e6c53" relativePath="../s1-20.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\s1-22.wav" id="23" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="930635db-2108-44b2-b24b-6b9009dc2f6f" relativePath="../s1-22.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\daddy.wav" id="24" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="151020c3-9b8e-4c9a-9a0c-a12e148b6ed3" relativePath="../daddy.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\s1-21.wav" id="25" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="159fb92b-89ad-40f6-b535-09f03154bc2a" relativePath="../s1-21.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\s1-24.wav" id="26" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="23ea1715-528c-4318-8341-f7e8ba6180ea" relativePath="../s1-24.wav"/>
-    <file absolutePath="H:\hobbies\demolition_tatko\tatko\s1-19.wav" id="27" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="aa27fe51-48be-4dc0-ae7b-85b9f20cbbbb" relativePath="../s1-19.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\s1-19.wav" id="11" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="aa27fe51-48be-4dc0-ae7b-85b9f20cbbbb" relativePath="../s1-19.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\david.wav" id="12" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="57ba4665-ce7e-4372-8831-dde1fad3603a" relativePath="../david.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\Imported Files\Scene1-2.wav" id="13" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="2e65608b-a27d-447a-a4b8-081e75127e27" relativePath="../Imported Files/Scene1-2.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\Imported Files\scnene1-4.wav" id="14" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="dbbeab5e-8d06-4caa-b9df-5a2cd1740797" relativePath="../Imported Files/scnene1-4.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\Imported Files\s1-6.wav" id="15" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="b98d1c00-9725-44e0-bb62-0e4165e94f61" relativePath="../Imported Files/s1-6.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\Imported Files\s1-8.wav" id="16" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="01511fc3-bd4b-4525-bad7-003a4c0df868" relativePath="../Imported Files/s1-8.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\Imported Files\s1-11.wav" id="17" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="08450278-6604-449a-9f26-cb5455022d7b" relativePath="../Imported Files/s1-11.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\psychokiller.wav" id="18" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="5f28daf3-fa71-4c6a-b559-31bbdeaa0109" relativePath="../psychokiller.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\Imported Files\scen1-12.wav" id="19" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="fb237ac1-1408-4054-9016-39b84c5b7a70" relativePath="../Imported Files/scen1-12.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\Imported Files\s1-14.wav" id="20" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="d6df1a20-8595-446b-b874-c8e014abef62" relativePath="../Imported Files/s1-14.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\s1-16.wav" id="21" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="c3bceeb2-8fad-427e-9a0b-cec44f1bc369" relativePath="../s1-16.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\s1-18.wav" id="22" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="1f2ddf8b-76f9-4a6d-948c-1f2d569e3814" relativePath="../s1-18.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\s1-20.wav" id="23" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="462a4bce-7821-4582-9dbc-731afa7e6c53" relativePath="../s1-20.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\s1-22.wav" id="24" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="930635db-2108-44b2-b24b-6b9009dc2f6f" relativePath="../s1-22.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\daddy.wav" id="25" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="151020c3-9b8e-4c9a-9a0c-a12e148b6ed3" relativePath="../daddy.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\s1-21.wav" id="26" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="159fb92b-89ad-40f6-b535-09f03154bc2a" relativePath="../s1-21.wav"/>
+    <file absolutePath="H:\hobbies\demolition_tatko\tatko\s1-24.wav" id="27" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:1;" mediaHandler="AmioWav" recoveryID="23ea1715-528c-4318-8341-f7e8ba6180ea" relativePath="../s1-24.wav"/>
   </files>
 
   <audioDevice inputID="AppleUSBAudioEngine:BLUE MICROPHONE:Blue Snowball :797_2018/12/07_72546:1" outputID="11111111-1111-1111-1111-11111111">
