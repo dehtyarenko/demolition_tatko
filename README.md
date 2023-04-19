@@ -16,7 +16,8 @@ To use this project, follow these steps:
 
 - Clone the project using git.
 - Install Adobe Audition (trial version is free for 7 days).
-- Download the file from [here](https://drive.google.com/file/d/14FoWIdb3j-HeVBh9rZ5l7sUN2hpL3cFd/view?usp=share_link) and extract it into the "large_files" directory.
+- run ```prereq.bat``` if you are on windows machine to download the large files
+  - **Alternatively** Download the file from [here](https://drive.google.com/file/d/14FoWIdb3j-HeVBh9rZ5l7sUN2hpL3cFd/view?usp=share_link) and extract it into the "large_files" directory.
 
 ## Usage
 
