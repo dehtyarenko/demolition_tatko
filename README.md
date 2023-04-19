@@ -16,8 +16,9 @@ To use this project, follow these steps:
 
 - Clone the project using git.
 - Install Adobe Audition (trial version is free for 7 days).
-- run ```prereq.bat``` if you are on windows machine to download the large files
-  - **Alternatively** Download the file from [here](https://drive.google.com/file/d/14FoWIdb3j-HeVBh9rZ5l7sUN2hpL3cFd/view?usp=share_link) and extract it into the "large_files" directory.
+- Install python 
+- run ```prereq.bat``` if you are on windows machine to download the large files, python, pip, etc.
+  - **Peasant option:** Download the file from [here](https://drive.google.com/file/d/14FoWIdb3j-HeVBh9rZ5l7sUN2hpL3cFd/view?usp=share_link) and extract it into the "large_files" directory.
 
 ## Usage
 
@@ -27,3 +28,13 @@ To use this project, follow these steps:
 - Request Alexander to add the missed *.wav files.
 - Record the translation according to the script into a separate branch.
 - Create a pull request.
+
+## Troubleshooting
+
+- __Intellij behave as little slut:__
+  - *Solution:* Run intellij as administrator
+- __Python or pip has an excution issues:__
+  - *Solution for python:* update the python [here](https://www.python.org/downloads/release/) use the latest release
+  - *Solution for pip:* ~~find another job~~ run the upgrade operation ```python -m pip install --upgrade pip```
+
+
