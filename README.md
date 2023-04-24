@@ -32,7 +32,7 @@ To use this project, follow these steps:
 ## Troubleshooting
 
 - __Intellij behave as little slut:__
-  - *Solution:* Run intellij as administrator
+  - *Solution:* Run intellij as pimp (administrator)
 - __Python or pip has an excution issues:__
   - *Solution for python:* update the python [here](https://www.python.org/downloads/release/) use the latest release
   - *Solution for pip:* ~~find another job~~ run the upgrade operation ```python -m pip install --upgrade pip```
