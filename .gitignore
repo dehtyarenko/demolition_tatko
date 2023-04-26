@@ -2,3 +2,4 @@ large_files/*
 scripts/resources/local.properties
 large_files
 /tatko/backup/*
+.idea/*
